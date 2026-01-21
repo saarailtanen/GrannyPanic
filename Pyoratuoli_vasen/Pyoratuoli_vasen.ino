@@ -4,8 +4,8 @@
 
 #define vasenAnturi_PIN 14
 
-#define WIFI_YHTEYS "IOTLABRA"
-#define WIFI_SALASANA "iotlabra2020"
+#define WIFI_YHTEYS ""
+#define WIFI_SALASANA ""
 #define PORTTI 80
 WiFiServer serveri(PORTTI);
 WebSocketServer sokettiServeri;
